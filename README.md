@@ -4,7 +4,12 @@
 2. [Borrar y cambiar sentencia](#borrar-y-cambiar-sentencia)
 
 ## Plegar lineas
-Para plegar las lineas de codigo de mamnera manual, se debe configurar en el `.vimrc` la linea `set foldmethod=manual`
+Para plegar las lineas de codigo de mamnera manual, se debe configurar de la siguiente manera:
+
+```
+set nofoldenable
+set foldmethod=manual
+```
 
 [Más información](https://vim.fandom.com/wiki/Folding)
 
