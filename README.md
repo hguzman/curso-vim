@@ -2,6 +2,7 @@
 
 1. [Plegar lineas](#plegar-lineas)
 2. [Borrar y cambiar sentencia](#borrar-y-cambiar-sentencia)
+3. [Manejo buffer](#manejo-buffer)
 
 ## Plegar lineas
 Para plegar las lineas de codigo de mamnera manual, se debe configurar de la siguiente manera:
@@ -22,3 +23,14 @@ set foldmethod=manual
 
 ## Borrar y cambiar sentencia
 Para borrar una sentencia se puede usar `das` y para cambiar `cas`
+
+## Manejo buffer
+
+| comando | Descripción |
+| :---: | :--- |
+| `:ls` | Lista el actual buffer, incluyendo su número |
+| `:b<numero>`| Abre el buffer con el número asignado |
+| `:bd`| Borra el actual buffer |
+| `Ctrl + o`| Se mueve al buffer abierto anteriormente |
+| `Ctrl + i`| Mueve al proximo buffer |
+
