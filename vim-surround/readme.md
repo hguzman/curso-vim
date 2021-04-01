@@ -12,3 +12,4 @@
 | ysiw] | **Y**ank **S**urrounding **I**nner 2 **W**ord | Encierra entre llaves 1 palabras |
 | ys2aw" | **Y**ank **S**urrounding 2 **A**round **W**ords | Encierra entre comillas 2 palabras |
 | yss) | **Y**ank **S**urrounding line | Encierra la linea completa en prentesis |
+| ysst | **Y**ank **S**urrounding line to tag | Encierra la linea completa en un tag |
