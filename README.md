@@ -3,6 +3,7 @@
 1. [Plegar lineas](#plegar-lineas)
 2. [Borrar y cambiar sentencia](#borrar-y-cambiar-sentencia)
 3. [Manejo buffer](#manejo-buffer)
+4. [Encerrar parentesis, llaves](vim-surround/readme.md)
 
 ## Plegar lineas
 Para plegar las lineas de codigo de mamnera manual, se debe configurar de la siguiente manera:
