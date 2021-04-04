@@ -4,6 +4,8 @@
 2. [Borrar y cambiar sentencia](#borrar-y-cambiar-sentencia)
 3. [Manejo buffer](#manejo-buffer)
 4. [Encerrar parentesis, llaves](vim-surround/readme.md)
+5. [Movimientos](movimientos/readme.md)
+6. [Eliminar](eliminar/readme.md)
 
 ## Plegar lineas
 Para plegar las lineas de codigo de mamnera manual, se debe configurar de la siguiente manera:
@@ -22,8 +24,8 @@ set foldmethod=manual
 | `zd`| Borra la marca de plegado |
 | `zD`| Borra la marca de plegado recursivamente |
 
-## Borrar y cambiar sentencia
-Para borrar una sentencia se puede usar `das` y para cambiar `cas`
+## Cambiar sentencia
+Para cambiar una sentencia `cas`
 
 ## Manejo buffer
 
