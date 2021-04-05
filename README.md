@@ -8,7 +8,10 @@
 6. [Eliminar](eliminar/readme.md)
 7. [Copiar y pegar](copiar-pegar/readme.md)
 
+## Pensando VIM
+
 ![pensar vim](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/buw7fbof0run3iafirmk.png)
+
 ## Plegar lineas
 Para plegar las lineas de codigo de mamnera manual, se debe configurar de la siguiente manera:
 
