@@ -6,6 +6,7 @@
 4. [Encerrar parentesis, llaves](vim-surround/readme.md)
 5. [Movimientos](movimientos/readme.md)
 6. [Eliminar](eliminar/readme.md)
+7. [Copiar y pegar](copiar-pegar/readme.md)
 
 ## Plegar lineas
 Para plegar las lineas de codigo de mamnera manual, se debe configurar de la siguiente manera:
