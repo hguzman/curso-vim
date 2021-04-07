@@ -7,6 +7,7 @@
 5. [Movimientos](movimientos/readme.md)
 6. [Eliminar](eliminar/readme.md)
 7. [Copiar y pegar](copiar-pegar/readme.md)
+8. [Buffer](buffer/readme.md)
 
 ## Pensando VIM
 
