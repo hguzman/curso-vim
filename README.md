@@ -9,6 +9,7 @@
 7. [Copiar y pegar](copiar-pegar/readme.md)
 8. [Buffer](buffer/readme.md)
 9. [Comentarios](comentarios/readme.md)
+10. [Remplazar texto](remplazar/readme.md)
 
 ## Pensando VIM
 
