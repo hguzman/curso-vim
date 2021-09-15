@@ -10,6 +10,7 @@
 8. [Buffer](buffer/readme.md)
 9. [Comentarios](comentarios/readme.md)
 10. [Remplazar texto](remplazar/readme.md)
+11. [Buscar en todos los archivos](buscar/readme.md)
 
 ## Pensando VIM
 
