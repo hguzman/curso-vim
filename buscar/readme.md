@@ -7,3 +7,5 @@ If you want search form a word in vim, you can use vimgrep.
 ```
 
 After that you can open the quick list `:copen`
+
+To open the quickfix window in a horizontal rather than vertical split do `:vert copen`.
