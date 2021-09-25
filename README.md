@@ -24,8 +24,8 @@ set nofoldenable
 set foldmethod=manual
 ```
 
-[Más información](https://vim.fandom.com/wiki/Folding)
-[Vim Cheat Sheet](https://vim.rtorr.com/)
+- [Más información](https://vim.fandom.com/wiki/Folding)
+- [Vim Cheat Sheet](https://vim.rtorr.com/)
 
 
 | Comando | Descripción |
