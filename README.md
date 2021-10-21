@@ -11,6 +11,7 @@
 9. [Comentarios](comentarios/readme.md)
 10. [Remplazar texto](remplazar/readme.md)
 11. [Buscar en todos los archivos](buscar/readme.md)
+12. [Organizar ventanas](ventanas/readme.md)
 
 ## Pensando VIM
 
