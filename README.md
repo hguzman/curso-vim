@@ -48,3 +48,5 @@ Para cambiar una sentencia `cas`
 | `Ctrl + o`| Se mueve al buffer abierto anteriormente |
 | `Ctrl + i`| Mueve al proximo buffer |
 
+## Wraping text
+`gq{movement}` o en modo visual `gq
