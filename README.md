@@ -83,3 +83,6 @@ Para cambiar una sentencia `cas`
 
  gu3k : Change 3 lines above to lower case
 ```
+## Edit vimrc
+
+If you want to edit file vimrc from vim, ypu can use `:e $MYVIMRC`
