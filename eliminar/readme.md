@@ -9,3 +9,6 @@
 | `d0` | **d**elete 0 | Borra desde el cursor hasta el inicio de la linea |
 | `dG` | **d**elete G | Borra desde la linea actual hasta el final del archivo |
 
+# Eliminar todas las filas en blanco de un archivo
+
+`:g/^$/d`
