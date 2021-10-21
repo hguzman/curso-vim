@@ -49,4 +49,4 @@ Para cambiar una sentencia `cas`
 | `Ctrl + i`| Mueve al proximo buffer |
 
 ## Wraping text
-`gq{movement}` o en modo visual `gq
+`gq{movement}` o en modo visual `gq`
