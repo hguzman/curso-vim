@@ -87,3 +87,7 @@ Para cambiar una sentencia `cas`
 ## Edit vimrc
 
 If you want to edit file vimrc from vim, ypu can use `:e $MYVIMRC`
+
+## Ejecutar ultimos comandos
+
+para sacar una lista de los ultimos comandos ejecutados se utiliza `q:`
