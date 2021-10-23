@@ -13,3 +13,7 @@
 | ys2aw" | **Y**ank **S**urrounding 2 **A**round **W**ords | Encierra entre comillas 2 palabras |
 | yss) | **Y**ank **S**urrounding line | Encierra la linea completa en prentesis |
 | ysst | **Y**ank **S**urrounding line to tag | Encierra la linea completa en un tag |
+
+## Encierra en comillas selección visual
+
+  Primero se debe seleccionar, despues usamos `S` y por ultimo colocamos el caracter con el cual se encerrara
