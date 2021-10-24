@@ -14,6 +14,7 @@
 12. [Organizar ventanas](ventanas/readme.md)
 13. [Manejo de tabs](tabs/readme.md)
 14. [Autocompletar](auto-completar/readme.md)
+15. [Migraciones](migracion/readme.md)
 
 ## Pensando VIM
 
