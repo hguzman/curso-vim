@@ -91,3 +91,7 @@ If you want to edit file vimrc from vim, ypu can use `:e $MYVIMRC`
 ## Ejecutar ultimos comandos
 
 para sacar una lista de los ultimos comandos ejecutados se utiliza `q:`
+
+## Justificar varias lineas
+
+Para justificar varias lineas se debe usar `5==` la instrucción re indentara 5 lineas
