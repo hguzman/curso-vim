@@ -15,6 +15,7 @@
 13. [Manejo de tabs](tabs/readme.md)
 14. [Autocompletar](auto-completar/readme.md)
 15. [Migraciones](migracion/readme.md)
+16. [Extract](extract/readme.md)
 
 ## Pensando VIM
 
